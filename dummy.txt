@@ -11,3 +11,4 @@ Nov 3 19:53:01 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthday
 Nov 4 16:28:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update README.md
 Nov 5 23:09:21 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
 Nov 5 22:41:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
+Nov 6 23:46:57 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
