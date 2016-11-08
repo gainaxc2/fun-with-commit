@@ -14,3 +14,4 @@ Nov 5 22:41:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added gi
 Nov 6 23:46:57 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
 Nov 7 12:37:50 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added JavaScript '3.5-dev' to build bot
 Nov 7 18:44:53 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
+Nov 8 18:05:58 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
