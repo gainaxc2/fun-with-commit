@@ -17,3 +17,4 @@ Nov 7 18:44:53 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added gi
 Nov 8 18:05:58 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Nov 9 23:42:46 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
 Nov 9 20:33:13 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthday edition
+Nov 9 22:37:52 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
