@@ -20,3 +20,4 @@ Nov 9 20:33:13 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthday
 Nov 9 22:37:52 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
 Nov 9 11:54:22 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update README.md
 Nov 10 12:56:37 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
+Nov 11 16:20:08 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthday edition
