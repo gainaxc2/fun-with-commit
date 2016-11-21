@@ -41,3 +41,4 @@ Nov 19 19:18:07 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change 
 Nov 20 12:29:20 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthday edition
 Nov 20 09:55:38 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update README.md
 Nov 20 21:19:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
+Nov 21 16:43:24 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update README.md
