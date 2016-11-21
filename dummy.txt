@@ -45,3 +45,4 @@ Nov 21 16:43:24 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update 
 Nov 21 18:11:39 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
 Nov 21 11:50:14 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
 Nov 21 17:40:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
+Nov 21 11:34:30 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
