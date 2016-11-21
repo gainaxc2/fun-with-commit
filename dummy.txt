@@ -46,3 +46,4 @@ Nov 21 18:11:39 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refacto
 Nov 21 11:50:14 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
 Nov 21 17:40:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
 Nov 21 11:34:30 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
+Nov 21 17:20:26 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
