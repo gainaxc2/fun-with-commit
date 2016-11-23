@@ -54,3 +54,4 @@ Nov 22 22:40:20 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor b
 Nov 22 17:27:53 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
 Nov 22 10:06:07 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
 Nov 22 20:05:10 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
+Nov 23 16:43:49 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
