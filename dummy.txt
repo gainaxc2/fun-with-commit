@@ -62,3 +62,4 @@ Nov 26 11:48:47 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update 
 Nov 26 11:50:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
 Nov 27 12:08:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
 Nov 27 15:09:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
+Nov 27 15:29:27 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
