@@ -60,3 +60,4 @@ Nov 25 12:18:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial
 Nov 25 16:35:35 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial commit
 Nov 26 11:48:47 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
 Nov 26 11:50:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
+Nov 27 12:08:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
