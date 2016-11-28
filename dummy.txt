@@ -66,3 +66,4 @@ Nov 27 15:29:27 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=databas
 Nov 27 17:12:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
 Nov 28 23:06:13 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
 Nov 28 20:08:40 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial commit
+Nov 28 13:55:56 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
