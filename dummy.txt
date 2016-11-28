@@ -75,3 +75,4 @@ Nov 28 17:01:25 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refacto
 Nov 28 12:46:45 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added JavaScript '3.5-dev' to build bot
 Nov 28 12:42:59 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
 Nov 28 19:05:05 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
+Nov 28 17:14:08 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial commit
