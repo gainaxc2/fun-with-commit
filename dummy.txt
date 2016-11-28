@@ -64,3 +64,4 @@ Nov 27 12:08:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refacto
 Nov 27 15:09:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
 Nov 27 15:29:27 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
 Nov 27 17:12:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
+Nov 28 23:06:13 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
