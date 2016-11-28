@@ -72,3 +72,4 @@ Nov 28 12:05:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial
 Nov 28 18:56:47 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Nov 28 18:17:10 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
 Nov 28 17:01:25 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
+Nov 28 12:46:45 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added JavaScript '3.5-dev' to build bot
