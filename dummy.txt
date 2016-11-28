@@ -71,3 +71,4 @@ Nov 28 22:48:53 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=birthda
 Nov 28 12:05:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=initial commit
 Nov 28 18:56:47 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Nov 28 18:17:10 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
+Nov 28 17:01:25 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
