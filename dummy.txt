@@ -82,3 +82,4 @@ Dec 1 09:25:58 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Extracte
 Dec 1 17:27:22 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
 Dec 2 09:43:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Dec 3 18:15:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
+Dec 4 09:19:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
