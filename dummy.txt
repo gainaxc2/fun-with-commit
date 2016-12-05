@@ -85,3 +85,4 @@ Dec 3 18:15:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated 
 Dec 4 09:19:18 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
 Dec 4 18:50:19 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
 Dec 4 14:47:15 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
+Dec 5 21:58:51 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
