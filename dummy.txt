@@ -88,3 +88,4 @@ Dec 4 14:47:15 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bu
 Dec 5 21:58:51 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
 Dec 6 20:00:39 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
 Dec 7 20:33:44 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added git commit hocks
+Dec 7 09:05:41 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
