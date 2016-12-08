@@ -95,3 +95,4 @@ Dec 7 16:34:43 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactor
 Dec 7 09:06:59 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
 Dec 7 20:27:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
 Dec 7 16:23:04 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
+Dec 8 22:31:54 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
