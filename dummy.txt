@@ -114,3 +114,4 @@ Dec 14 23:42:49 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added J
 Dec 14 22:03:29 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=cleaning up
 Dec 14 16:44:51 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Dec 15 11:23:38 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
+Dec 15 23:30:47 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
