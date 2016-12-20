@@ -130,3 +130,4 @@ Dec 20 17:48:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refacto
 Dec 20 22:55:54 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
 Dec 20 19:19:43 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
 Dec 20 15:46:58 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
+Dec 20 11:22:27 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
