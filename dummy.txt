@@ -128,3 +128,4 @@ Dec 20 15:10:08 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update 
 Dec 20 17:24:14 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
 Dec 20 17:48:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
 Dec 20 22:55:54 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=database handler change
+Dec 20 19:19:43 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=change folder names
