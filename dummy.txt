@@ -126,3 +126,4 @@ Dec 19 09:50:24 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update 
 Dec 20 21:06:27 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added JavaScript '3.5-dev' to build bot
 Dec 20 15:10:08 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
 Dec 20 17:24:14 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=minor bug fix
+Dec 20 17:48:55 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=refactoring
