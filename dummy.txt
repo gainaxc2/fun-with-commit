@@ -151,3 +151,4 @@ Dec 24 14:17:48 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=databas
 Dec 25 22:16:34 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Added JavaScript '3.5-dev' to build bot
 Dec 26 16:38:53 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=major bug fix
 Dec 26 17:32:28 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
+Dec 27 20:22:13 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=new VI and models
