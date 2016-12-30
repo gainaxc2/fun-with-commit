@@ -156,3 +156,4 @@ Dec 28 21:31:42 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Extract
 Dec 29 13:55:52 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=updated gitignore
 Dec 29 12:04:04 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=Update README.md
 Dec 29 09:12:14 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
+Dec 30 13:50:04 2016 +0800 gainaxc2 <gainaxc2@gmail.com>, commit message=update minor bug fix
